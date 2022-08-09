@@ -8,6 +8,9 @@
         "^[a-zA-Z]{3,5}$": {
             "type": "object",
             "properties": {
+                "price": {
+                    "type":"number"
+                },
                 "exposure": {
                     "type": "object",
                     "volID": "greek",
