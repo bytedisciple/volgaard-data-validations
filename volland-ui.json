@@ -77,7 +77,10 @@
             },
             "required": [
                 "exposure",
-                "eod"
+                "eod",
+                "delta50_iv",
+                "price",
+                "notional_equity_volume"
             ]
         }
     },
