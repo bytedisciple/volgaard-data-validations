@@ -11,6 +11,12 @@
                 "price": {
                     "type":"number"
                 },
+                "notional_equity_volume": {
+                    "type":"number"
+                },
+                "delta50_iv": {
+                    "type":"number"
+                },
                 "exposure": {
                     "type": "object",
                     "volID": "greek",
